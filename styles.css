@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    font-family: system-ui;
+}
+
+.recipe-result-image {
+    display: block;
+    height: 320px;
+    width: 200px;
+    object-fit: contain;
+    border-radius: 8px;
+}
