@@ -5,8 +5,8 @@ html, body {
 
 .recipe-result-image {
     display: block;
-    height: 320px;
-    width: 200px;
-    object-fit: contain;
+    height: 280px;
+    width: 320px;
+    object-fit: cover;
     border-radius: 8px;
 }
